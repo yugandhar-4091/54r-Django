@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-pa9(uo34u+umn)uz4pou!&rtqr=apo-s^u!re+b73c&g-#3$o0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['simpledjango-app-rotp.onrender.com']
 
 
 # Application definition
